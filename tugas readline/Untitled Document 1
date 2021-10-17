@@ -1,0 +1,12 @@
+/*
+  Berdasarkan function sebelum nya buatkan lah
+  sebuah fungsi CLI menggunakan readline agar parameter 
+  yang di terima oleh function lebih dinamis,
+  
+  Untuk perhitungan function luas alas dan volume nya dipisah.
+  ketika selesai menginput Luas alas. Tampilkan Luas alas nya.
+  Ketika di masukkan parameter tinggi nya Tampilkan Volume nya.
+  Hitung lah : 
+  1.Volume Balok (Mishar, Agif, Yosias)
+  2. Volume Tabung (Daniel & Yusril)
+*/
